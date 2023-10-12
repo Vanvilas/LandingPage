@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Desenvolvido com o intuito de exemplificar uma página de produtos 
+Desenvolvido com o intuito de exemplificar uma página de produtos. 
 
 _**Veja o resultado [clicando aqui](https://vanvilas.github.io/LandingPage)**_.
 
