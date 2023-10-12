@@ -8,6 +8,13 @@ Desenvolvido com o intuito de exemplificar uma página de produtos.
 
 _**Veja o resultado [clicando aqui](https://vanvilas.github.io/LandingPage)**_.
 
+## 🚀 Tecnologias 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+    - HTML
+    - CSS
+    - Git e GitHub
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
