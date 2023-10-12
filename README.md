@@ -4,4 +4,4 @@
 
 ## 💻 Projeto
 
-_**Veja o resultado [clicando aqui](https://vanvilas/.github.io/LandingPage)**_.
+_**Veja o resultado [clicando aqui](https://vanvilas.github.io/LandingPage)**_.
