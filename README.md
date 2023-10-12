@@ -12,6 +12,10 @@ _**Veja o resultado [clicando aqui](https://vanvilas.github.io/LandingPage)**_.
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## ✉️ Contatos
+
+<a href="https://www.linkedin.com/in/vanessa-vilas-boas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ---
 
 Feito com ♥ by Vanessa 👋
