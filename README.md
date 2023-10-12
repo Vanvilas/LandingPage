@@ -10,7 +10,7 @@ _**Veja o resultado [clicando aqui](https://vanvilas.github.io/LandingPage)**_.
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
